@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student faculty_number='st101'>
+        <name>Ivan Ivanov</name>
+        <gender>male</gender>
+        <faculty>Finance Faculty</faculty>
+        <major>Accounting</major>
+        <score>4.75</score>
+    </student>
+    <student faculty_number='st102'>
+        <name>Maria Marinova</name>
+        <gender>female</gender>
+        <faculty>Computerscience Faculty</faculty>
+        <major>Web Developer</major>
+        <score>5.25</score>
+    </student>
+    <student faculty_number='st103'>
+        <name>Petyr Petrov</name>
+        <gender>male</gender>
+        <faculty>Computerscience Faculty</faculty>
+        <major>Web Developer</major>
+        <score>3.25</score>
+    </student>
+</students>
